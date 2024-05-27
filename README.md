@@ -13,4 +13,4 @@
     <a href="https://pt.wikipedia.org/wiki/MySQL"><img align="center" alt="java" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </div>
         
-### Engenheiro de software e apaixonado em tecnologia, sigo firme no caminho pra aprender o máximo que eu conseguir :smirk_cat:
+### Estudante de ciência da computação
