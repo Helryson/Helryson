@@ -13,4 +13,4 @@
     <a href="https://pt.wikipedia.org/wiki/MySQL"><img align="center" alt="java" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </div>
         
-### Estudante de ciência da computação
+### "O conhecido é finito, o desconhecido, infinito; intelectualmente estamos numa ilhota no meio de um oceano ilimitado de inexplicabilidade. Nossa função em cada geração é reinvidicar um pouco mais de terra firme."
