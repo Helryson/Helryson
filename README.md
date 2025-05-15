@@ -1,20 +1,62 @@
-<h1>Olá gafanhotos,</h1>
-<h3>Tecnologias que eu utilizo:</h3>
-<div style="display: inline_block">
-    <a href="https://pt.wikipedia.org/wiki/HTML5"><img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href="https://pt.wikipedia.org/wiki/CSS3"><img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-    <a href="https://en.wikipedia.org/wiki/Spring_Boot"><img align="center" alt="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
-    <a href="https://pt.wikipedia.org/wiki/Java_(linguagem_de_programação)"><img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-    <a href="https://en.wikipedia.org/wiki/MongoDB"><img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-    <a href="https://www.python.org/"><img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-    <a href="https://pt.wikipedia.org/wiki/PostgreSQL"><img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-    <a href="https://en.wikipedia.org/wiki/Cloud_computing"><img align="center" alt="cloud" src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-    <a href="https://www.databricks.com/"><img align="center" alt="databricks" src="https://img.shields.io/badge/Databricks-FC4032?style=for-the-badge&logo=databricks&logoColor=white"></a>
-    <a href="https://en.wikipedia.org/wiki/Machine_learning"><img align="center" alt="machine learning" src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-    <a href="https://www.docker.com/"><img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-    <a href="https://pt.wikipedia.org/wiki/Linux"><img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-    <a href="https://en.wikipedia.org/wiki/Data_science"><img align="center" alt="datascience" src="https://img.shields.io/badge/Data_Science-3C5186?style=for-the-badge&logo=databricks&logoColor=white"></a>
+<h1 align="center">👋 Olá, eu sou o Helryson!</h1>
 
-</div>
-        
-### "O conhecido é finito, o desconhecido, infinito; intelectualmente estamos numa ilhota no meio de um oceano ilimitado de inexplicabilidade. Nossa função em cada geração é reinvidicar um pouco mais de terra firme."
+<p align="center">
+  <strong>Desenvolvedor Backend | Estudante de Ciência da Computação | Entusiasta de Rocketry</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=helryson&color=blue" alt="profile views"/>
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+🎓 Sou estudante de **Ciência da Computação** e estou atualmente no **5º semestre**.<br>
+🛠️ Atuo como **líder de turma**.<br>
+🧠 Participo da equipe universitária de foguetes Falcon 6 na área de **motor e propulsão**.<br>
+🌱 Estudando **Machine Learning**, **Python**, **CI/CD**, **Grafana**, **Inglês técnico** e outras áreas avançadas de tecnologia.<br>
+🏗️ Apaixonado por projetos desafiadores e aprendizado constante.
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+<p align="center" style="display: inline-block;">
+  <a href="https://en.wikipedia.org/wiki/Spring_Boot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
+  <a href="https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://pt.wikipedia.org/wiki/PostgreSQL"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="https://en.wikipedia.org/wiki/Cloud_computing"><img alt="Cloud" src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
+  <a href="https://www.databricks.com"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FC4202?style=for-the-badge&logo=databricks&logoColor=white"/></a>
+  <a href="https://en.wikipedia.org/wiki/Machine_learning"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+  <a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://pt.wikipedia.org/wiki/Linux"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+  <a href="https://pt.wikipedia.org/wiki/Data_science"><img alt="Data Science" src="https://img.shields.io/badge/Data_Science-3C5186?style=for-the-badge&logo=databricks&logoColor=white"/></a>
+</p>
+
+---
+
+## 📚 Em aprendizado contínuo
+
+- 📌 Python para sistemas embarcados
+- ⚙️ Pipeline de CI/CD com GitHub Actions
+- 📈 Visualização com Grafana + Prometheus
+- 🤖 Projetos de IA com foco em aprendizado supervisionado
+- 🌐 Infraestrutura em nuvem
+
+---
+
+> 🧠 “O conhecido é finito, o desconhecido, infinito; intelectualmente estamos numa ilhota no meio de um oceano ilimitado de inexplicabilidade. Nossa função em cada geração é reivindicar um pouco mais de terra firme.” – T. H. Huxley
+
+---
+
+## 📫 Contato
+
+- 📧 helrysonmtg@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/helryson-rodrigues-oliveira-23559a201/?jobid=1234)
+
+---
+
+## ✨ Obrigado por visitar meu perfil!
+
