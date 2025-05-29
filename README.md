@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Helryson!</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Backend | Estudante de Ciência da Computação | Entusiasta de Rocketry</strong>
+  <strong>Estudante de Machine Learning | Ciência da Computação | Entusiasta de Rocketry</strong>
 </p>
 
 <p align="center">
