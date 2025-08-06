@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Sou estudante de **Ciência da Computação** e estou atualmente no **5º semestre**.<br>
+🎓 Sou estudante de **Ciência da Computação** e estou atualmente no **6º semestre**.<br>
 🛠️ Atuo como **líder de turma**.<br>
 🧠 Participo da equipe universitária de foguetes Falcon 6 na área de **motor e propulsão**.<br>
 🌱 Estudando **Machine Learning**, **Python**, **CI/CD**, **Grafana**, **Inglês técnico** e outras áreas avançadas de tecnologia.<br>
