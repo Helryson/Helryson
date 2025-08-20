@@ -23,8 +23,6 @@
 ## 💻 Tecnologias e Ferramentas
 
 <p align="center" style="display: inline-block;">
-  <a href="https://en.wikipedia.org/wiki/Spring_Boot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
-  <a href="https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://pt.wikipedia.org/wiki/PostgreSQL"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   <a href="https://en.wikipedia.org/wiki/Cloud_computing"><img alt="Cloud" src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
